@@ -1,0 +1,42 @@
+[
+    {
+        "fName": "Mark Jefferson",
+        "mName": "Aquino",
+        "lName": "Rivera",
+        "idNum": "038221",
+        "email": "maaq.rivera.up@phinmaed.com",
+        "Password": "Mark038221"
+    },
+    {
+        "fName": "Lester Aaron",
+        "mName": "Antenor",
+        "lName": "Tomboc",
+        "idNum": "03-02-2526-038606",
+        "email": "lean.tomboc.up@phinmaed.com",
+        "Password": "Lester038606"
+    },
+    {
+        "fName": "Krizza Nicole",
+        "mName": "Bautista",
+        "lName": "Yanzon",
+        "idNum": "03-02-2526-036816",
+        "email": "krba.yanzon.up@phinmaed.com",
+        "Password": "Krizza036816"
+    },
+    {
+        "fName": "Mark Raven",
+        "mName": "Ricamara",
+        "lName": "Dela Cruz",
+        "idNum": "03-02-2526-037650",
+        "email": "maic.delacruz.up@phinmaed.com",
+        "Password": "Mark037650"
+    },
+    {
+        "fName": "Harvey",
+        "mName": "Titi",
+        "lName": "Manalo",
+        "idNum": "03-01-2625-09090909",
+        "email": "manalotitiharvey@gmail.com",
+        "Password": "harveytitili8"
+    }
+]
